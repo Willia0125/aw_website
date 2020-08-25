@@ -44,16 +44,15 @@ h3 {
 
 .bottom-container {}
 
-.top-cloud {
+/*.top-cloud {
   position: absolute;
   left: 850px;
-  top: 0px;
+  top: 0px;*/
 }
-
-.bottom-cloud {
+/*.bottom-cloud {
   position: absolute;
   right: 850px;
-  bottom: 150px;
+  bottom: 150px;*/
 }
 
 .p1 {
